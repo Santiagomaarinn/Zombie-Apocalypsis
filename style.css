@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  align-content: center;
+}
+canvas {
+  display: block;
+}
+h1{
+  color:rgb(160, 245, 12); 
+  font-size: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-top: 100px;
+}
+button{
+  margin-top: 20px;
+  background: linear-gradient(#082401 0%, rgb(92, 89, 88) 100%);
+  width: 200px;
+  height: 100px;
+  color:rgb(160,245,12);
+
+}
